@@ -80,6 +80,6 @@ These features effectively capture customer purchasing power and behavior.
 
 ### 📸 Sample Output
 
-![Customer Segmentation Output](cluster_plot.png)
+![Customer Segmentation Output](Customer-segmentation/cluster_plot.png)
 
 *Customer segments based on annual income and spending score.*
