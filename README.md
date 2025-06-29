@@ -66,7 +66,7 @@ These features effectively capture customer purchasing power and behavior.
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/customer-segmentation.git
-   cd customer-segmentation
+   cd Customer-segmentation
 
    ```
 ### 📚 Learning Outcomes
